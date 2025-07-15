@@ -1,0 +1,23 @@
+# CIA Triad & IAM
+
+The **CIA Triad**—Confidentiality, Integrity, Availability—is the foundational model of cybersecurity.  
+As an IAM engineer, I map each pillar to identity controls:
+
+---
+
+## Confidentiality  
+- **Definition:** Prevent unauthorized disclosure of data.  
+- **IAM Example:** Role-Based Access Control (RBAC) ensures only permitted users see sensitive resources.
+
+## Integrity  
+- **Definition:** Guarantee data is unaltered and trustworthy.  
+- **IAM Example:** Audit logs in IAM track who changed permissions and when, detecting tampering.
+
+## Availability  
+- **Definition:** Ensure timely and reliable access to resources.  
+- **IAM Example:** High-availability IdP clusters and failover authentication maintain uninterrupted login.
+
+---
+
+> **Reflection:**  
+> IAM not only gates access but becomes the measurement stick for each CIA pillar. Next, I’ll explore terminology that underpins these concepts.
