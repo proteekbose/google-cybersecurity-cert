@@ -17,7 +17,7 @@ Welcome to my public learning journey as I progress through the **Google Cyberse
 - [CIA Triad and IAM](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/cia-triad-iam)
 - [Cybersecurity Terminology](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/cybersecurity-terminology.md)
 - [PII vs SPII](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/pii-vs-spii.md)
-- [Core Skills](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/core-skills.md)
+- [Core Skills](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/core-skills)
 
 ---
 
