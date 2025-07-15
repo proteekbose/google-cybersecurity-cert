@@ -14,10 +14,10 @@ Welcome to my public learning journey as I progress through the **Google Cyberse
 - **Frameworks**: NIST, ISO 27001, SOC 2 mapping to IAM strategies
 
 ### ✅ IAM Insights & Notes:
-- [CIA Triad and IAM](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/cia-triad-iam)
-- [Cybersecurity Terminology](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/cybersecurity-terminology)
-- [PII vs SPII](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/pii-vs-spii)
-- [Core Skills](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/core-skills)
+- [CIA Triad and IAM](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/cia-triad-iam.md)
+- [Cybersecurity Terminology](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/cybersecurity-terminology.md)
+- [PII vs SPII](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/pii-vs-spii.md)
+- [Core Skills](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/core-skills.md)
 
 ---
 
