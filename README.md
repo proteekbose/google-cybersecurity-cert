@@ -4,7 +4,7 @@ Welcome to my public learning journey as I progress through the **Google Cyberse
 
 ---
 
-## 📅 Day 1 – Course 1 | Module 1: Foundations of Cybersecurity
+## 📅 Day 1 – Course 1 | Module 1: Introduction to Cybersecurity
 
 ### 📌 Topics Covered:
 - **Cybersecurity Basics**: CIA Triad, Terminology
@@ -26,11 +26,11 @@ Welcome to my public learning journey as I progress through the **Google Cyberse
 
 - [History of Early Attacks](course-1-foundations-of-cybersecurity/module-2-evolution-of-cybersecurity/01_history-attacks.md)
 - [Phishing Variants](course-1-foundations-of-cybersecurity/module-2-evolution-of-cybersecurity/02_phishing-variants.md)
-- [Malware Families](course-1-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/03_malware-families.md)
-- [Social Engineering](course-1-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/04_social-engineering.md)
-- [Attack Categories](course-1-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/05_attack-categories.md)
-- [Threat Actors](course-1-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/06_threat-actors.md)
-- [CISSP’s Eight Domains](course-1-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/07_CISSP’s-eight-domains.md)
+- [Malware Families](course-1-foundations-of-cybersecurity/module-2-evolution-of-cybersecurity/03_malware-families.md)
+- [Social Engineering](course-1-foundations-of-cybersecurity/module-2-evolution-of-cybersecurity/04_social-engineering.md)
+- [Attack Categories](course-1-foundations-of-cybersecurity/module-2-evolution-of-cybersecurity/05_attack-categories.md)
+- [Threat Actors](course-1-foundations-of-cybersecurity/module-2-evolution-of-cybersecurity/06_threat-actors.md)
+- [CISSP’s Eight Domains](course-1-foundations-of-cybersecurity/module-2-evolution-of-cybersecurity/07_CISSP’s-eight-domains.md)
 
 ---
 
