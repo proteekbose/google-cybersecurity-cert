@@ -24,13 +24,13 @@ Welcome to my public learning journey as I progress through the **Google Cyberse
 
 ## 📅 Day 2 – Course 1 | Module 2: Evolution of Cybersecurity
 
-- [History of Early Attacks](course-2-evolution-of-cybersecurity/01_history-attacks.md)
-- [Phishing Variants](course-2-evolution-of-cybersecurity/02_phishing-variants.md)
-- [Malware Families](course-2-evolution-of-cybersecurity/03_malware-families.md)
-- [Social Engineering](course-2-evolution-of-cybersecurity/04_social-engineering.md)
-- [Attack Categories](course-2-evolution-of-cybersecurity/05_attack-categories.md)
-- [Threat Actors](course-2-evolution-of-cybersecurity/06_threat-actors.md)
-- [CISSP’s Eight Domains](course-2-evolution-of-cybersecurity/07_CISSP’s-eight-domains.md)
+- [History of Early Attacks](course-1-foundations-of-cybersecurity/module-2-evolution-of-cybersecurity/01_history-attacks.md)
+- [Phishing Variants](course-2-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/02_phishing-variants.md)
+- [Malware Families](course-2-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/03_malware-families.md)
+- [Social Engineering](course-2-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/04_social-engineering.md)
+- [Attack Categories](course-2-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/05_attack-categories.md)
+- [Threat Actors](course-2-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/06_threat-actors.md)
+- [CISSP’s Eight Domains](course-2-evolution-of-cybersecurity/module-2-evolution-of-cybersecurity/07_CISSP’s-eight-domains.md)
 
 ---
 
