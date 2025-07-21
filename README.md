@@ -4,7 +4,7 @@ Welcome to my public learning journey as I progress through the **Google Cyberse
 
 ---
 
-## 📅 Day 1 – Course 1: Foundations of Cybersecurity (Module 1)
+## 📅 Day 1 – Course 1 | Module 1: Foundations of Cybersecurity
 
 ### 📌 Topics Covered:
 - **Cybersecurity Basics**: CIA Triad, Terminology
@@ -18,6 +18,36 @@ Welcome to my public learning journey as I progress through the **Google Cyberse
 - [Cybersecurity Terminology](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/cybersecurity-terminology.md)
 - [PII vs SPII](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/pii-vs-spii.md)
 - [Core Skills](course-1-foundations-of-cybersecurity/module-1-introduction-to-cybersecurity/core-skills.md)
+
+
+---
+
+## 📅 Day 2 – Course 1 | Module 2: Evolution of Cybersecurity
+
+- [History of Early Attacks](course-2-evolution-of-cybersecurity/01_history-attacks.md)
+- [Phishing Variants](course-2-evolution-of-cybersecurity/02_phishing-variants.md)
+- [Malware Families](course-2-evolution-of-cybersecurity/03_malware-families.md)
+- [Social Engineering](course-2-evolution-of-cybersecurity/04_social-engineering.md)
+- [Attack Categories](course-2-evolution-of-cybersecurity/05_attack-categories.md)
+- [Threat Actors](course-2-evolution-of-cybersecurity/06_threat-actors.md)
+- [CISSP’s Eight Domains](course-2-evolution-of-cybersecurity/07_CISSP’s-eight-domains.md)
+
+---
+
+## 🔐 CISSP’s Eight Domains & IAM
+
+CISSP’s domains frame the entire security lifecycle. Here’s how IAM ties in:
+
+| Domain                                 | IAM Integration                                               |
+|--------------------------------------- |---------------------------------------------------------------|
+| 1. Security & Risk Management          | Identity policies drive risk modeling & compliance.           |
+| 2. Asset Security                      | Attribute-based access enforces data classification.          |
+| 3. Security Architecture & Engineering | Federated IdP (SAML/OIDC) and key-management integration.     |
+| 4. Communication & Network Security    | Zero-trust network access via IAM (802.1X, VPN).              |
+| 5. Identity & Access Management        | RBAC/ABAC, MFA, JIT admin, continuous authentication.         |
+| 6. Security Assessment & Testing       | Automated permission reviews & policy validation.             |
+| 7. Security Operations                 | Identity-centric SIEM alerts and incident playbooks.          |
+| 8. Software Development Security       | CI/CD pipelines with IAM checks and least-privilege accounts. |
 
 ---
 
